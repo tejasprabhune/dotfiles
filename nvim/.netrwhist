@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/tejasprabhune/shares/Chemistry'
+let g:netrw_dirhist_5='/home/tejasprabhune/shares/LinuxNotes'
+let g:netrw_dirhist_4='/home/tejasprabhune/.config/alacritty'
+let g:netrw_dirhist_3='/home/tejasprabhune/.config'
+let g:netrw_dirhist_2='/home/tejasprabhune/shares'
+let g:netrw_dirhist_1='/home/tejasprabhune/.config/i3'
